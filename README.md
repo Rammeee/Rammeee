@@ -1,27 +1,27 @@
 <div align="center">
 
-  <!-- HEADER SECTION -->
-  <h1 style="color: #00f7ff; font-family: 'Courier New', monospace; text-shadow: 0px 0px 10px #00f7ff;">
-    S R I R A M
-  </h1>
-  
-  <h3 style="color: #c8d3f5; font-family: sans-serif;">
-    Code • Create • Innovate
-  </h3>
+<!-- WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a0500,50:ff4500,100:ff8c00&text=S+R+I+R+A+M&fontSize=55&fontAlignY=38&desc=C+O+D+E+%7C+C+R+E+A+T+E+%7C+I+N+N+O+V+A+T+E&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Digital+Applications;Crafting+Modern+Mobile+Applications;Exploring+AI-Driven+Automation" alt="Typing SVG" />
-  </a>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer;📱+Flutter+Mobile+Applications;💡+Building+Scalable+Applications;🌍+Exploring+AI+Automation;🔥+Public+Problem+Solver" />
 
-  <!-- HERO BUTTONS -->
-  <br><br>
-  <a href="https://rammeee.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/View_Portfolio-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:rammeeey@gmail.com">
-    <img src="https://img.shields.io/badge/Connect_With_Me-8a63ff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br><br>
+
+<!-- PROFILE STATS -->
+<img src="https://komarev.com/ghpvc/?username=Rammeee&label=Profile+Views&color=00f5a0&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Rammeee?style=for-the-badge&color=00f5a0"/>
+<img src="https://img.shields.io/badge/Stars-15+-00f5a0?style=for-the-badge" />
+
+<br><br>
+
+<!-- BUTTONS -->
+<a href="https://rammeee.github.io/MyPortfolio/">
+  <img src="https://img.shields.io/badge/View_Portfolio-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:rammeeey@gmail.com">
+  <img src="https://img.shields.io/badge/Connect_With_Me-8a63ff?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -71,23 +71,51 @@
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">💻 Full Stack Development</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Currently focused on developing scalable full stack applications with clean architecture, responsive user experiences, secure backend APIs, and optimized database systems. I enjoy creating products that balance performance, usability, and maintainability.
+        Currently focused on developing scalable full stack applications with clean architecture, responsive user experiences, secure backend APIs, and optimized database systems.
       </p>
     </td>
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">📱 Mobile Applications</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Building modern Flutter applications with smooth animations, intuitive interfaces, and seamless cross-platform experiences. I enjoy transforming ideas into polished mobile applications that feel fast, lightweight, and engaging for users.
+        Building modern Flutter applications with smooth animations, intuitive interfaces, and seamless cross-platform experiences.
       </p>
     </td>
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">🤖 AI Automation</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Exploring AI-assisted workflows, intelligent automation systems, and modern development tools. I'm actively experimenting with n8n, AI integrations, and productivity-focused solutions that simplify workflows and improve development efficiency.
+        Exploring AI-assisted workflows, intelligent automation systems, and n8n integrations.
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rammeee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Rammeee&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rammeee&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rammeee&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ram-DA?theme=dark&font=Nunito&ext=contest"/>
+
+</div>
 
 ---
 
@@ -99,7 +127,7 @@
   </h3>
   
   <p style="color: #cbd5e1; margin-bottom: 30px;">
-    Whether it's full stack development, Flutter applications, backend systems, AI workflows, or innovative digital products — I'm always open to collaborations, opportunities, and exciting conversations.
+    Whether it's full stack development, Flutter applications, backend systems, AI workflows, or innovative digital products — I'm always open to collaborations and exciting conversations.
   </p>
 
   <div align="center">
@@ -109,7 +137,7 @@
     <a href="https://www.linkedin.com/in/nanthakumarsriram/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/rammeee">
+    <a href="https://github.com/Rammeee">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://rammeee.github.io/MyPortfolio/">
