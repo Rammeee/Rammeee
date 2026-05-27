@@ -71,19 +71,28 @@
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">💻 Full Stack Development</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Currently focused on developing scalable full stack applications with clean architecture, responsive user experiences, secure backend APIs, and optimized database systems.
+        Passionate about building modern and scalable full stack applications that solve real-world problems.  
+Focused on creating clean backend systems, responsive user interfaces, and efficient database structures.  
+Enjoy working with modern technologies to develop smooth, reliable, and user-friendly digital experiences.  
+Continuously learning and improving through practical projects and hands-on development.
       </p>
     </td>
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">📱 Mobile Applications</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Building modern Flutter applications with smooth animations, intuitive interfaces, and seamless cross-platform experiences.
+        Passionate about building modern Flutter applications with clean design and smooth user experiences.  
+Focused on creating responsive interfaces, elegant animations, and seamless cross-platform performance.  
+Enjoy developing mobile applications that feel intuitive, fast, and visually appealing.  
+Continuously exploring better UI/UX practices and modern mobile development techniques.
       </p>
     </td>
     <td width="33%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3 style="color: #00f7ff;">🤖 AI Automation</h3>
       <p style="color: #cbd5e1; font-size: 0.9em;">
-        Exploring AI-assisted workflows, intelligent automation systems, and n8n integrations.
+        Interested in exploring AI-assisted workflows and intelligent automation systems.  
+Focused on building smarter and more efficient solutions using modern automation tools and integrations.  
+Enjoy learning how AI can simplify processes, improve productivity, and enhance user experiences.  
+Continuously experimenting with automation platforms like n8n and modern AI technologies.
       </p>
     </td>
   </tr>
